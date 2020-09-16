@@ -1,0 +1,4 @@
+# Created at 2020-09-15T17:24:51.464
+Boot Manifest-JAR contains absolute paths in classpath 'E:\UDEMY\SaturdayLiveProject\webDriverMaven\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
