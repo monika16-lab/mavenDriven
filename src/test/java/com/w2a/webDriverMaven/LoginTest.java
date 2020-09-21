@@ -16,7 +16,7 @@ public class LoginTest {
 
 	public static WebDriver driver;
 	public static WebDriverWait wait;
-//Egit Commite
+    //Egit Commite plugin
 	@BeforeSuite
 	public void setUp()
 	{
